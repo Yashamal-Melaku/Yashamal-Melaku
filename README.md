@@ -100,7 +100,3 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 📧 yashamalmelaku@gmail.com  
 📱 +251-949-812341  
 📍 Addis Ababa, Ethiopia  
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
