@@ -2,10 +2,12 @@
 
 I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** who loves building beautiful, fast, and user-friendly web and mobile experiences.
 
-- 💻 Specializing in: React, Flutter, Dart, HTML/CSS, JavaScript, Firebase
-- 📱 Building cross-platform mobile apps that feel native
-- 🎨 UI/UX enthusiast: Clean, modern, accessible design
-- 🚀 Always learning and pushing boundaries
+- 💻 Specializing in: React, Flutter, Dart, HTML/CSS, JavaScript, Firebase  
+- 📱 Building cross-platform mobile apps that feel native  
+- 🎨 UI/UX enthusiast: Clean, modern, accessible design  
+- 🚀 Always learning and pushing boundaries  
+
+🌐 **Portfolio**: [https://yashamaldev.vercel.app](https://yashamaldev.vercel.app) *(demo domain – update if different)*
 
 ---
 
@@ -43,7 +45,11 @@ A web app built to manage university assets.
 
 ## 📺 Content / Tutorials
 
-🎥 I create short-form tech videos on **TikTok** under the name **TECH+**, helping the community stay updated on the latest tech trends, tips, and app tutorials.
+🎥 I share quick and helpful tech tutorials via **TECH+**, a TikTok channel where I break down mobile dev, Flutter tips, and frontend tools.
+
+- [📱 TikTok – @techplusdev](https://www.tiktok.com/@techplusdev)
+- [🎥 YouTube Tutorials (Coming Soon)](#)
+- [📘 Blog/Articles](https://yashamaldev.vercel.app/blog)
 
 ---
 
@@ -57,6 +63,8 @@ A web app built to manage university assets.
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yashamal-melaku)  
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat)](https://www.tiktok.com/@techplusdev)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/techplusdev/)  
 📧 yashamalmelaku@gmail.com  
 📱 +251-949-812341  
 📍 Addis Ababa, Ethiopia  
