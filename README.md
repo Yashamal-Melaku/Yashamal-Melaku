@@ -7,7 +7,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 - 🎨 UI/UX enthusiast: Clean, modern, accessible design  
 - 🚀 Always learning and pushing boundaries  
 
-🌐 **Portfolio**: [https://yashamaldev.vercel.app](https://yashamaldev.vercel.app) *(demo domain – update if different)*
+🌐 **Portfolio**: [https://yashamaldev.vercel.app](https://yashamaldev.vercel.app)
 
 ---
 
@@ -25,27 +25,59 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ---
 
-## 📱 Featured Mobile Projects (Flutter)
+## 🚀 Projects
 
-### 🛍️ Online Shopping Android App  
-Android mobile app for a cosmetic company.  
-**Tech**: Flutter, Dart, Firebase  
-[GitHub Repo](#) | [Demo](#)
+### 📱 Mobile App Projects (Flutter)
+
+- 🛍️ **Online Shopping App** – Cosmetic store app with product listing, cart, and Firebase backend  
+  _Tech_: Flutter, Dart, Firebase  
+  [GitHub Repo](#) | [Demo](#)
+
+- 📖 **Quiz App** – Interactive quiz with scores and question logic  
+  _Tech_: Flutter, Dart, JSON  
+  [GitHub Repo](#) | [Demo](#)
+
+- 💬 **Chat App** – Real-time messaging app using Firebase Auth and Firestore  
+  _Tech_: Flutter, Firebase  
+  [GitHub Repo](#) | [Demo](#)
+
+- 🚑 **Health Tracker App** – Tracks daily steps, water intake, and sleep with SQLite  
+  _Tech_: Flutter, SQLite  
+  [GitHub Repo](#) | [Demo](#)
+
+- 🎯 **Habit Tracker** – Build good habits and track consistency  
+  _Tech_: Flutter, Hive/Firebase  
+  [GitHub Repo](#) | [Demo](#)
 
 ---
 
-## 🌐 Front-End Projects (Web)
+### 🌐 Web Projects (Frontend)
 
-### 🏫 Haramaya University Property Management System  
-A web app built to manage university assets.  
-**Tech**: HTML, CSS, JavaScript, SQL  
-[GitHub Repo](#) | [Live Demo](#)
+- 🏫 **University Property Management System** – Manage university-owned property (course project)  
+  _Tech_: HTML, CSS, JavaScript, SQL  
+  [GitHub Repo](#) | [Live Demo](#)
+
+- 🧾 **Task Manager Web App** – Organize and manage to-do lists with filters and priorities  
+  _Tech_: React, CSS, Firebase  
+  [GitHub Repo](#) | [Live Demo](#)
+
+- 🎬 **Movie Search App** – Search and explore movies using TMDB API  
+  _Tech_: React, REST API  
+  [GitHub Repo](#) | [Live Demo](#)
+
+- 📝 **Blog Site (Markdown)** – Minimal blog platform built with Next.js and Markdown  
+  _Tech_: Next.js, Markdown  
+  [GitHub Repo](#) | [Live Site](#)
+
+- 🎨 **Portfolio Website** – Your personal website with animations and mobile-first design  
+  _Tech_: React or Flutter Web  
+  [GitHub Repo](#) | [Live Demo](https://yashamaldev.vercel.app)
 
 ---
 
 ## 📺 Content / Tutorials
 
-🎥 I share quick and helpful tech tutorials via **TECH+**, a TikTok channel where I break down mobile dev, Flutter tips, and frontend tools.
+🎥 I create short tech tutorials under **TECH+** on **TikTok**, where I share mobile dev, Flutter, and tech tips for beginners and aspiring developers.
 
 - [📱 TikTok – @techplusdev](https://www.tiktok.com/@techplusdev)
 - [🎥 YouTube Tutorials (Coming Soon)](#)
@@ -68,3 +100,7 @@ A web app built to manage university assets.
 📧 yashamalmelaku@gmail.com  
 📱 +251-949-812341  
 📍 Addis Ababa, Ethiopia  
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
