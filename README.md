@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yashamal Melaku!
+# 👋 Hi, I'm [Your Name]!
 
 I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** who loves building beautiful, fast, and user-friendly web and mobile experiences.
 
@@ -25,42 +25,51 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ## 📱 Featured Mobile Projects (Flutter)
 
-### 🛍️ Online Shopping Android App  
-Android mobile app for a cosmetic company.  
-**Tech**: Flutter, Dart, Firebase  
+### 🚗 RideShare App  
+Cross-platform Uber-style mobile app  
+[GitHub Repo](#) | [Demo](#)
+
+### 📅 Event Planner App  
+Schedule, plan, and manage events with a beautiful Flutter UI  
+[GitHub Repo](#) | [Demo](#)
+
+### 🛍️ E-Commerce Flutter App  
+Complete Flutter e-commerce solution with cart, auth, and Firebase  
 [GitHub Repo](#) | [Demo](#)
 
 ---
 
 ## 🌐 Front-End Projects (Web)
 
-### 🏫 Haramaya University Property Management System  
-A web app built to manage university assets.  
-**Tech**: HTML, CSS, JavaScript, SQL  
+### 🎬 Movie Search App (React)  
+Search and explore movies using TMDB API  
+[GitHub Repo](#) | [Live Demo](#)
+
+### 📝 Personal Blog Site (Next.js + Markdown)  
+Minimal blog platform built with Next.js and Markdown  
+[GitHub Repo](#) | [Live Site](#)
+
+### 🎨 Portfolio Website  
+Your own website with animations, sections, and mobile-first design  
 [GitHub Repo](#) | [Live Demo](#)
 
 ---
 
 ## 📺 Content / Tutorials
 
-🎥 I create short-form tech videos on **TikTok** under the name **TECH+**, helping the community stay updated on the latest tech trends, tips, and app tutorials.
-
----
-
-## 📜 Certifications
-
-- 📱 [Android Developer Fundamentals – Udacity (5 Million Ethiopia Coders)](https://www.udacity.com/certificate/e/81331b90-eb40-11ef-a8cb-3374870ef1d7)
-- 📘 Currently studying: [CS50x – HarvardX](https://cs50.harvard.edu/x/)
+- [How to Build a Flutter App from Scratch](#)
+- [Responsive Web Design with React](#)
+- [Firebase Auth in Flutter – Step-by-Step Guide](#)
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yashamal-melaku)  
-📧 yashamalmelaku@gmail.com  
-📱 +251-949-812341  
-📍 Addis Ababa, Ethiopia  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourhandle)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://youtube.com/yourchannel)
 
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
