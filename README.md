@@ -79,7 +79,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 🎥 I create short tech tutorials under **TECH+** on **TikTok**, where I share mobile dev, Flutter, and tech tips for beginners and aspiring developers.
 
-- [📱 TikTok – @techplusdev](https://www.tiktok.com/@techplusdev)
+- [📱 TikTok – @techplusdev]([https://www.tiktok.com/@techplusdev](https://www.tiktok.com/@tech_plus_s?_t=ZM-8vaYFFMPUDX&_r=1))
 - [🎥 YouTube Tutorials (Coming Soon)](#)
 - [📘 Blog/Articles](https://yashamaldev.vercel.app/blog)
 
@@ -95,7 +95,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%93%AC+Connect+with+Me" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yashamal-melaku)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat)](https://www.tiktok.com/@techplusdev)  
+[![TikTok]([https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat)](https://www.tiktok.com/@techplusdev](https://www.tiktok.com/@tech_plus_s?_t=ZM-8vaYFFMPUDX&_r=1))  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/techplusdev/)  
 📧 yashamalmelaku@gmail.com  
 📱 +251-949-812341  
