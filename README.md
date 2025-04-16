@@ -25,7 +25,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ---
 
-## 🚀 Projects
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%9A%80+Projects" alt="Typing SVG" /></a>
 
 ### 📱 Mobile App Projects (Flutter)
 
@@ -75,7 +75,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ---
 
-## 📺 Content / Tutorials
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%93%BA+Content+%2F+Tutorials" alt="Typing SVG" /></a>
 
 🎥 I create short tech tutorials under **TECH+** on **TikTok**, where I share mobile dev, Flutter, and tech tips for beginners and aspiring developers.
 
@@ -85,14 +85,14 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ---
 
-## 📜 Certifications
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%93%9C+Certifications" alt="Typing SVG" /></a>
 
 - 📱 [Android Developer Fundamentals – Udacity (5 Million Ethiopia Coders)](https://www.udacity.com/certificate/e/81331b90-eb40-11ef-a8cb-3374870ef1d7)
 - 📘 Currently studying: [CS50x – HarvardX](https://cs50.harvard.edu/x/)
 
 ---
 
-## 📬 Connect with Me
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%93%AC+Connect+with+Me" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yashamal-melaku)  
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat)](https://www.tiktok.com/@techplusdev)  
