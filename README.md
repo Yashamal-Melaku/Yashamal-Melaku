@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yashamal Melaku!
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=D7F7C1&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yashamal+Melaku!" alt="Typing SVG" /></a>
 
 I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** who loves building beautiful, fast, and user-friendly web and mobile experiences.
 
