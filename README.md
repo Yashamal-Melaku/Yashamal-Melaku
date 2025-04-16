@@ -96,6 +96,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yashamal-melaku)  
 [![TikTok]([https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=flat)](https://www.tiktok.com/@techplusdev](https://www.tiktok.com/@tech_plus_s?_t=ZM-8vaYFFMPUDX&_r=1))
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/techplusdev/)  
 📧 yashamalmelaku@gmail.com  
 📱 +251-949-812341  
