@@ -11,7 +11,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ---
 
-## 🛠️ Tech Stack
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
