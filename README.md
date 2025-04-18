@@ -27,7 +27,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%9A%80+Projects" alt="Typing SVG" /></a>
 
-### 📱 Mobile App Projects (Flutter)
+### 📱 Mobile App Projects
 
 - 🛍️ **Online Shopping App** – Cosmetic store app with product listing, cart, and Firebase backend  
   _Tech_: Flutter, Dart, Firebase  
