@@ -31,7 +31,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 
 - 🛍️ **Online Shopping App** – Cosmetic store app with product listing, cart, and Firebase backend  
   _Tech_: Flutter, Dart, Firebase  
-  [GitHub Repo](#) | [Demo](#)
+  [GitHub Repo](https://github.com/Yashamal-Melaku/Bulkis-ecommerce-Mobil-App) | [Demo](#)
 
 - 📖 **Quiz App** – Interactive quiz with scores and question logic  
   _Tech_: Flutter, Dart, JSON  
