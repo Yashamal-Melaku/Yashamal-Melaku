@@ -7,21 +7,21 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 - 🎨 UI/UX enthusiast: Clean, modern, accessible design  
 - 🚀 Always learning and pushing boundaries  
 
-🌐 **Portfolio**: [https://yashamaldev.vercel.app](https://yashamal-melaku.github.io/Yashamal-Portfolio/)
+🌐 **Portfolio**: [https://yashamaldev.vercel.app]([https://yashamal-melaku.github.io/Yashamal-Portfolio/](https://yashamalmelaku.noza.et/))
 
 ---
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F78A13&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
 ---
 
