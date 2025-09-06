@@ -7,7 +7,9 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 - 🎨 UI/UX enthusiast: Clean, modern, accessible design  
 - 🚀 Always learning and pushing boundaries  
 
-🌐 **Portfolio**: [https://yashamalmelaku.noza.et](https://yashamalmelaku.noza.et)
+<a href="https://yashamalmelaku.noza.et" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-blue?style=for-the-badge" />
+</a>
 
 ---
 
