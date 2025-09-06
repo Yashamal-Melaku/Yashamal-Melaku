@@ -7,7 +7,7 @@ I'm a passionate **Front-End Developer** and **Flutter Mobile App Developer** wh
 - 🎨 UI/UX enthusiast: Clean, modern, accessible design  
 - 🚀 Always learning and pushing boundaries  
 
-🌐 **Portfolio**: [https://yashamaldev.vercel.app]([https://yashamal-melaku.github.io/Yashamal-Portfolio/](https://yashamalmelaku.noza.et/))
+🌐 **Portfolio**: [https://yashamaldev.vercel.app]((https://yashamalmelaku.noza.et/))
 
 ---
 
